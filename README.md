@@ -1,4 +1,4 @@
-# CodeAlpha_Login_and_Registration_System
+# Programming_Cpp_Login_and_Registration_System
 The login And Registration System project in
 C++ involves mainly the user registration
 process. User Credentials like usernames and
